@@ -1,0 +1,5 @@
+deb [arch=arm64] http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
+deb [arch=arm64] http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
+deb [arch=arm64] http://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware
+deb [arch=arm64] http://security.debian.org/debian-security/ bookworm-security main contrib non-free non-free-firmware
+deb [signed-by=/usr/share/keyrings/raspberrypi-archive-keyring.gpg arch=arm64] http://archive.raspberrypi.com/debian/ bookworm main
